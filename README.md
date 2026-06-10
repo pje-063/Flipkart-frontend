@@ -45,4 +45,4 @@ Deployment
 - To gain experience with deployment platforms such as Netlify and Render.
 
 ## Project Screenshot
-(image/Flipkart.jpeg)
+![Flipkart Clone](image/Flipkart.jpeg)
