@@ -44,4 +44,5 @@ Deployment
 - To learn REST API integration between frontend and backend.
 - To gain experience with deployment platforms such as Netlify and Render.
 
-
+## Project Screenshot
+(image/Flipkart.jpeg)
